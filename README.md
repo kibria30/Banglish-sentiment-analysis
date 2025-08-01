@@ -2,6 +2,12 @@
 
 A sentiment analysis project for Banglish text (mixture of Bengali and English) using large language models.
 
+## Context
+
+This project was developed for the **Independence Cup 2025** datathon competition, organized by **IITSEC** (a student organization of IIT, University of Dhaka). The challenge focused on sentiment analysis of Banglish text, requiring models to understand and classify emotions in a mixed Bengali-English linguistic context.
+
+**Final Submission**: The Ollama-based implementation with Qwen2.5:14B was used for the final competition submission.
+
 ## Overview
 
 This project implements sentiment classification for Banglish text using two different approaches with state-of-the-art language models.
